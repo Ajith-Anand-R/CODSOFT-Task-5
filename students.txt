@@ -1,0 +1,5 @@
+StudentID  | Name                 | Registered Courses
+--------------------------------------------------------------
+AJI        | AJITH                | ENG301
+S001       | Alice                | CS101, CSE101
+S002       | Bob                  | MATH201

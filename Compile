@@ -1,0 +1,1 @@
+javac Course.java Student.java CourseRegistrationSystem.java && java CourseRegistrationSystem
